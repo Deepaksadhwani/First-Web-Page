@@ -27,3 +27,7 @@
 .space {
     margin-bottom: 50px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
