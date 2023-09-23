@@ -16,12 +16,16 @@
   }
   h2{
     text-align: center;
+    text-shadow: 2px 2px 2px white;
+
   }
   h3 {
     text-align: center;
+    
+    text-shadow: 2px 2px 2px white;
   }
   span {
-    color: darkgrey;background-color: white;
+    color: black;
   }
 
 .space {
@@ -41,5 +45,5 @@ body{
 }
 
 a{
-  color: black;
+  color: purple;
 }
