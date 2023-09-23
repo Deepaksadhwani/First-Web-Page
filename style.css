@@ -33,5 +33,13 @@ html {
 }
 
 a:hover {
-  color: pink;
+  color: darkgray;
+}
+
+body{
+  background-image: linear-gradient(to right, aqua,blue);
+}
+
+a{
+  color: black;
 }
